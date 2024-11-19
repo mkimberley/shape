@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/mkimberley/triangle/cmd/shape"
+	"github.com/mkimberley/shape/cmd/shape"
 )
 
 func main() {
